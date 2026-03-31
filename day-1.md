@@ -1,5 +1,8 @@
 # Daily Learning
-
+1. Commit change 1
+1. Commit change 2
+2. Commit change 3
+  
 ## Morning Planning
 <img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 
